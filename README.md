@@ -63,7 +63,7 @@ This command will search the NPM registry and return a listing of plugins which 
 
 ##### Install and Uninstall
 
-These commands are just wrappers around npm to provide support to install and removed plugins.
+These commands are just wrappers around npm to provide support to install and remove plugins.
 
 **Install**
 
