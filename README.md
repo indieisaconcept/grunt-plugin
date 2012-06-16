@@ -2,6 +2,8 @@
 
 The aim of this plugin is to illustrate how the discovery of plugins for new and existing users of grunt could be done by providing a way to search for, install and remove plugins directly from grunt.
 
+## Background
+
 I got the idea for this plugin after reading the comments below and also after using **@cowboy**'s [jsfiddle](http://jsfiddle.net/cowboy/qzRjD/show/ "Grunt plugins published to Npm") for "Grunt plugins published to Npm".
 
 - https://github.com/cowboy/grunt/issues/228#issuecomment-6354257
