@@ -2,6 +2,12 @@
 
 The aim of this plugin is to illustrate how the discovery of plugins for new and existing users of grunt could be done by providing a way to search for, install and remove plugins directly from grunt.
 
+I got the idea for this plugin after reading the comments below and also after using @cowboy's [http://jsfiddle.net/cowboy/qzRjD/show/][jsfiddle] for "Grunt plugins published to Npm".
+
+- https://github.com/cowboy/grunt/issues/228#issuecomment-6354257
+- https://github.com/cowboy/grunt/issues/228#issuecomment-6354982
+- https://github.com/cowboy/grunt/issues/228#issuecomment-6355281
+
 ## Getting Started
 Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: 
 
@@ -47,7 +53,7 @@ where <command> is one of: search, install, uninstall
 
 ##### Search
 
-This command will search the NPM registry and return a listing of plugins which currently have the keyword "grunt-plugin". The returned results are then filtered based on the keywords passed. If ommited all plugins will be display.
+This command will search the NPM registry and return a listing of plugins which currently have the keyword "gruntplugin". The returned results are then filtered based on the keywords passed. If ommited all plugins will be display.
 
 ```javascript
 > grunt plugin:search:css,haml
