@@ -11,7 +11,7 @@ I got the idea for this plugin after reading the comments below and also after u
 ## Getting Started
 Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: 
 
-`npm install "git://github.com/indieisaconcept/grunt-package#master"`
+`npm install "git://github.com/indieisaconcept/grunt-plugin#master"`
 
 Then add this line to your project's `grunt.js` gruntfile:
 
@@ -59,7 +59,7 @@ This command will search the NPM registry and return a listing of plugins which 
 > grunt plugin:search:css,haml
 ```
 
-!['Example console output'](https://github.com/indieisaconcept/grunt-package/raw/master/screenshot.png)
+!['Example console output'](https://github.com/indieisaconcept/grunt-plugin/raw/master/screenshot.png)
 
 ##### Install and Uninstall
 
